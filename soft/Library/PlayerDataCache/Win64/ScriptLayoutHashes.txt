@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Gustavo/Documents/repo/Unity2D/Intro_Setup/soft/soft/Ludo/soft.exe
+C:/Users/Gustavo/Documents/trabalho_soft/trabalho_final_soft/Ludo/soft.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Game.unity

@@ -20,8 +20,8 @@ public class Pontuacao : MonoBehaviour {
         
         marcadores[0] = GameObject.Find("azulPlac");
         marcadores[1] = GameObject.Find("vermelhoPlac");
-        marcadores[2] = GameObject.Find("verdePlac");
-        marcadores[3] = GameObject.Find("amareloPlac");
+        marcadores[2] = GameObject.Find("amareloPlac");
+        marcadores[3] = GameObject.Find("verdePlac");
 
         
         Debug.Log(marcadores.ToString());
